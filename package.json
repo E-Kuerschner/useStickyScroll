@@ -1,0 +1,25 @@
+{
+  "name": "use-sticky-scroll",
+  "version": "1.0.0",
+  "description": "React hook to help you set up 'sticky scroll' behavior.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Kuerschner/useStickyScroll.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "scroll",
+    "sticky"
+  ],
+  "author": "Erich Kuerschner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/E-Kuerschner/useStickyScroll/issues"
+  },
+  "homepage": "https://github.com/E-Kuerschner/useStickyScroll#readme"
+}
