@@ -1,0 +1,29 @@
+html {
+    background-color: azure;
+}
+
+section {
+    width: 500px;
+    overflow: auto;
+    border: solid 1px darkslategray;
+    margin-top: 10px;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+h2, h4 {
+    color: darkslategray;
+}
+
+.stickyContent {
+    border-bottom: solid 2px darkslategray;
+    font-weight: bold;
+}
+
+.stickyContent--stuck {
+    background-color: azure;
+}
+
+.longContent {
+    height: 300px;
+}
