@@ -1,6 +1,6 @@
 {
   "name": "react-use-sticky-scroll",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React hook to help you set up 'sticky scroll' behavior.",
   "main": "dist/useStickyScroll.js",
   "scripts": {
